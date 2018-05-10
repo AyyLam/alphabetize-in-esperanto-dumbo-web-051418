@@ -5,5 +5,6 @@ def alphabetize(arr)
     splited.each do |letter|
       alphabet.index(letter)
     end
+  }
   end
 end
