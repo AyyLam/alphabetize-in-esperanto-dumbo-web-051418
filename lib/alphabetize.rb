@@ -1,4 +1,4 @@
 def alphabetize(arr)
-  alphabet = 
+  alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   arr.sort_by 
 end
